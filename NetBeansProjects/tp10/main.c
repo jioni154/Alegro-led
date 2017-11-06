@@ -8,7 +8,7 @@
 #include <allegro5/allegro_primitives.h>
 #include <unistd.h>
 
-#define FPS		60
+#define FPS		60.0
 #define D_WIDTH		1280
 #define D_HEIGHT	960
 
